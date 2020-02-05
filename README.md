@@ -21,9 +21,9 @@
 </ul>
 
 <h3>Cool House Cats</h3>
-<img src="" alt ="">
+<img src="flynn.jpg" alt ="Flynn">
 <p><strong>Flynn</strong>: Happy kitty, sleepy kitty.</p>
-<img src="" alt ="">
+<img src="quorra.jpg" alt ="Quorra">
 <p><strong>Quorra</strong>: Mii-ow Fit. Cat Shopping List</p>
 
 <table>
